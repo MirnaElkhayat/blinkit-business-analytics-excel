@@ -17,7 +17,8 @@ A multi-sheet Excel project analyzing a retail delivery business across orders, 
 - Excel-based reporting
 
 ## Data privacy
-The source workbook includes customer-related data. It has not been published here because the dataset requires privacy review and anonymization first.
+The workbook contains customer-related sample records. Its email fields use example.com, example.net, and example.org domains, and its phone fields use repeated placeholder-style values.
 
 ## Open the project
-A privacy-reviewed workbook will be added when ready.
+Download `Excel Project Dipl.xlsx` and open it in Microsoft Excel.
+
